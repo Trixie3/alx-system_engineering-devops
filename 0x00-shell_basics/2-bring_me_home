@@ -1,3 +1,2 @@
 #!/bin/bash
-cd ~
-echo $(pwd)
+cd ~ echo $(pwd)
