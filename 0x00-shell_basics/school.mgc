@@ -1,2 +1,2 @@
 #!/bin/bash
-file -Cm SCHOOL
+echo "0 string SCHOOL School data file" 
