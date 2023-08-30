@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "0 string SCHOOL School data file" 
+file -C -m enter_file_name_here
